@@ -1,0 +1,22 @@
+:root{
+    --bs-gradient: linear-gradient(to right, rgba(173, 83, 137, 1), rgba(60, 16, 83, 1))!important;
+}
+
+
+/* .manavbar{
+    background: var(--bs-gradient)!important;
+} */
+
+/* .test {
+    background-color: #ddd;
+    border: 1px solid #212121;
+    height: 50px;
+} */
+
+h2{
+    border: 3 px rgba(60, 16, 83, 1)!important;
+}
+
+.border-primary {
+    border-color: #3c1053 !important;
+}
